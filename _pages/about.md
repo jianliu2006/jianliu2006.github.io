@@ -28,6 +28,20 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/pin-pression gripper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**
+
+Hewen Xiao, Xiuping Liu, Hang Zhao, **Jian Liu**<sup>\*</sup>, [Kai Xu](https://kevinkaixu.net/index.html)
+
+Conditionally Accepted to SIGGRAPH 2025 (Journal Track).
+[Coming soon]
+
+project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/BimanualSaliency.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
