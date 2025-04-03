@@ -22,6 +22,7 @@ Jian Liu (刘健) is a research assistant at the software college, Shenyang Univ
 Jian is currently jointing the software Lab @ SUT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & grasping, etc. For more details, please refer to my publications.
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 Our 《Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment》paper is conditionally accepted to SIGGRAPH 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the School of Software of Shenyang University of Technology, as a lecturer.
 - *2022.07*: &nbsp;🎉🎉 I joined the School of Software of Tsinghua University as a postdoctoral fellow.
 
