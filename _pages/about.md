@@ -23,6 +23,7 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 Our 《Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment》paper is conditionally accepted to SIGGRAPH 2025.
+- *2024.04*: &nbsp;🎉🎉 Our 《PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation》paper is accepted to TPAMI.
 - *2024.09*: &nbsp;🎉🎉 I joined the School of Software of Shenyang University of Technology, as a lecturer.
 - *2022.07*: &nbsp;🎉🎉 I joined the School of Software of Tsinghua University as a postdoctoral fellow.
 
@@ -39,6 +40,19 @@ Conditionally Accepted to SIGGRAPH 2025 (Journal Track).
 [Coming soon]
 
 project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/PointNorm-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation**
+
+Jie Zhang, Minghui Nie, Chanqing Zou, **Jian Liu**, [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/), [Junjie Cao](https://jjcao.github.io/index.html)
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (SCI, CCF-A, JCR1, Top)
+
+[project page](https://minghuinie.github.io/PointNorm-Net/) / [paper](https://arxiv.org/abs/2304.04884)
 </div>
 </div>
 
