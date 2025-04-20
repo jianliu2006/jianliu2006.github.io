@@ -82,6 +82,32 @@ project page / [paper](https://d.wanfangdata.com.cn/periodical/jsjyy202401035)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/GeoHi-GNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**GeoHi-GNN: Geometry-aware hierarchical graph representation learning for normal estimation**
+
+Nannan Li, Xinyuan Li, Jun Zhou, Dong Jiang, **Jian Liu**, Qing Hong
+
+Computer Aided Geometric Design, Volume 114, 2024. (SCI, CCF-B, JCR2)
+
+project page / [paper](https://www.sciencedirect.com/science/article/pii/S0167839624001249)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences 2024</div><img src='images/Gromov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Accelerate rotation invariant sliced Gromov-Wasserstein distance by an alternative optimization method**
+
+Jinming Luo, Yuhao Bian, Xianjie Gao, **Jian Liu**, Xiuping Liu
+
+Information Sciences, Volume 677, 2024. (SCIE, JCR2)
+
+project page / [paper](https://www.sciencedirect.com/science/article/pii/S0020025524008399)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/AffordPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
