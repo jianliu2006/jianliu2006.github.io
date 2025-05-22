@@ -1,4 +1,4 @@
----
+![3ba87fdbfb61691dc9595fbda8117a48](https://github.com/user-attachments/assets/29142eaa-04eb-4689-8f18-077537153c41)![3ba87fdbfb61691dc9595fbda8117a48](https://github.com/user-attachments/assets/4a176a30-3663-4eb4-92ba-40cb7f43886e)![3ba87fdbfb61691dc9595fbda8117a48](https://github.com/user-attachments/assets/b1090949-eb73-4295-bd49-b6f6ab4a133b)---
 permalink: /
 title: "Jian Liu(刘健)"
 excerpt: ""
@@ -36,10 +36,10 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 
 Hewen Xiao, Xiuping Liu, Hang Zhao, **Jian Liu**<sup>\*</sup>, [Kai Xu](https://kevinkaixu.net/index.html)
 
-Conditionally Accepted to SIGGRAPH 2025 (Journal Track).
+Accepted to SIGGRAPH 2025 (Journal Track).
 [Coming soon]
 
-project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000323)
+project page (https://jianliu2006.github.io/Pin-Pression/) / [paper](https://jianliu2006.github.io/Pin-Pression/)
 </div>
 </div>
 
