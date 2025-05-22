@@ -37,9 +37,8 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 Hewen Xiao, Xiuping Liu, Hang Zhao, **Jian Liu**<sup>\*</sup>, [Kai Xu](https://kevinkaixu.net/index.html)
 
 Accepted to SIGGRAPH 2025 (Journal Track).
-[Coming soon]
 
-project page (https://jianliu2006.github.io/Pin-Pression/) / [paper](https://jianliu2006.github.io/Pin-Pression/)
+[project page] (https://jianliu2006.github.io/Pin-Pression/) / [paper](https://jianliu2006.github.io/Pin-Pression/)
 </div>
 </div>
 
