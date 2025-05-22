@@ -38,7 +38,7 @@ Hewen Xiao, Xiuping Liu, Hang Zhao, **Jian Liu**<sup>\*</sup>, [Kai Xu](https://
 
 Accepted to SIGGRAPH 2025 (Journal Track).
 
-[project page] (https://jianliu2006.github.io/Pin-Pression/) / [paper](https://jianliu2006.github.io/Pin-Pression/)
+[project page](https://jianliu2006.github.io/Pin-Pression/) / [paper](https://jianliu2006.github.io/Pin-Pression/)
 </div>
 </div>
 
