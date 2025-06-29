@@ -22,12 +22,26 @@ Jian Liu (刘健) is a research assistant at the software college, Shenyang Univ
 Jian is currently jointing the software Lab @ SUT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & grasping, etc. For more details, please refer to my publications.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our 《G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation》paper is accepted to ICCV 2025.
 - *2024.04*: &nbsp;🎉🎉 Our 《Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment》paper is conditionally accepted to SIGGRAPH 2025.
 - *2024.04*: &nbsp;🎉🎉 Our 《PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation》paper is accepted to TPAMI.
 - *2024.09*: &nbsp;🎉🎉 I joined the School of Software of Shenyang University of Technology, as a lecturer.
 - *2022.07*: &nbsp;🎉🎉 I joined the School of Software of Tsinghua University as a postdoctoral fellow.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pin-pression gripper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation**
+
+Juntao Jian, Xiuping Liu, Zixuan Chen, [Manyi Li](https://manyili12345.github.io/), **Jian Liu**<sup>\*</sup>, [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/)
+
+ICCV 2025.(CCF-A)
+
+[project page](https://g-dexgrasp.github.io/) / [paper](https://arxiv.org/pdf/2503.19457)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/pin-pression gripper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,7 +50,7 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 
 Hewen Xiao, Xiuping Liu, Hang Zhao, **Jian Liu**<sup>\*</sup>, [Kai Xu](https://kevinkaixu.net/index.html)
 
-Accepted to SIGGRAPH 2025 (Journal Track).
+ACM Transactions on Graphics(Proceedings of SIGGRAPH 2025), Volume 44, 2025. (SCI, CCF-A, JCR1, Top)
 
 [project page](https://jianliu2006.github.io/Pin-Pression/) / [paper](https://arxiv.org/pdf/2505.18994)
 </div>
@@ -112,7 +126,7 @@ project page / [paper](https://www.sciencedirect.com/science/article/pii/S002002
 
 **AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose**
 
-Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/)<sup>\*</sup>, [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), **Jian Liu**<sup>\*</sup>
+Juntao Jian, Xiuping Liu, [Manyi Li](https://manyili12345.github.io/), [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/), **Jian Liu**<sup>\*</sup>
 
 ICCV 2023. (CCF-A)
 
