@@ -30,7 +30,7 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pin-pression gripper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/G-DexGrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation**
