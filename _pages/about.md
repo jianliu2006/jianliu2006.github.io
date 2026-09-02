@@ -22,6 +22,8 @@ Jian Liu (刘健) is a research assistant at the software college, Shenyang Univ
 Jian is currently jointing the software Lab @ SUT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & grasping, etc. For more details, please refer to my publications.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our 《SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote》paper is accepted to TGRS journal.
+- *2026.04*: &nbsp;🎉🎉 Our 《BiPart: Bi-level Optimization for Generalizable 3D Part Segmentation Prior Distillation from Pre-trained Vision-Language Mode》paper is accepted to CVM 2026.
 - *2024.06*: &nbsp;🎉🎉 Our 《G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation》paper is accepted to ICCV 2025.
 - *2024.04*: &nbsp;🎉🎉 Our 《Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment》paper is conditionally accepted to SIGGRAPH 2025.
 - *2024.04*: &nbsp;🎉🎉 Our 《PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation》paper is accepted to TPAMI.
@@ -29,6 +31,32 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 - *2022.07*: &nbsp;🎉🎉 I joined the School of Software of Tsinghua University as a postdoctoral fellow.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/Bipart-segmentation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote**
+
+Ye Yuan, Shuanglong Li, **Jian Liu**<sup>\*</sup>, Zhaoshuo Diao, Guoyu Tong
+
+IEEE Transactions on Geoscience and Remote Sensing(TGRS 2026), Volume xx, 2026. (SCI, Q1, Top).
+
+project page / [paper](https://iccvm.org/2026/files/papers/410.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM 2026</div><img src='images/Bipart-segmentation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**BiPart: Bi-level Optimization for Generalizable 3D Part Segmentation Prior Distillation from Pre-trained Vision-Language Mode**
+
+Juan Fang, **Jian Liu**, Xiuping Liu, Lei Wu, [Manyi Li](https://manyili12345.github.io/)
+
+CVM 2026.(CCF-A)
+
+project page / [paper](https://iccvm.org/2026/files/papers/410.pdf)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/G-DexGrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +78,7 @@ ICCV 2025.(CCF-A)
 
 Hewen Xiao, Xiuping Liu, Hang Zhao, **Jian Liu**<sup>\*</sup>, [Kai Xu](https://kevinkaixu.net/index.html)
 
-ACM Transactions on Graphics(Proceedings of SIGGRAPH 2025), Volume 44, 2025. (SCI, CCF-A, JCR1, Top)
+ACM Transactions on Graphics(Proceedings of SIGGRAPH 2025), Volume 44, 2025. (SCI, CCF-A, Q1, Top)
 
 [project page](https://jianliu2006.github.io/Pin-Pression/) / [paper](https://arxiv.org/pdf/2505.18994)
 </div>
@@ -63,7 +91,7 @@ ACM Transactions on Graphics(Proceedings of SIGGRAPH 2025), Volume 44, 2025. (SC
 
 Jie Zhang, Minghui Nie, Chanqing Zou, **Jian Liu**, [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/), [Junjie Cao](https://jjcao.github.io/index.html)
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (SCI, CCF-A, JCR1, Top)
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. (SCI, CCF-A, Q1, Top)
 
 [project page](https://minghuinie.github.io/PointNorm-Net/) / [paper](https://arxiv.org/abs/2304.04884)
 </div>
@@ -172,7 +200,7 @@ project page / [paper](https://www.sciencedirect.com/science/article/abs/pii/S00
 
 **Jian Liu**, [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)<sup>\*</sup>, [Xifeng Gao](https://gaoxifeng.github.io/), Kaihang Gao, [Kai Xu](https://kevinkaixu.net/index.html), [Baoquan Chen](https://baoquanchen.info/), [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html)<sup>\*</sup>
 
-ACM Transactions on Graphics(Proceedings of SIGGRAPH 2022), Volume 41, 2021. (SCI, CCF-A, JCR1, Top)
+ACM Transactions on Graphics(Proceedings of SIGGRAPH 2022), Volume 41, 2021. (SCI, CCF-A, Q1, Top)
 
 project page / [paper](https://dl.acm.org/doi/10.1145/3476829)
 </div>
