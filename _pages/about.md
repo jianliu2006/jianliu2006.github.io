@@ -22,7 +22,7 @@ Jian Liu (刘健) is a research assistant at the software college, Shenyang Univ
 Jian is currently jointing the software Lab @ SUT, which conducts research in the areas of computer graphics and computer vision. The current directions of interest include data-driven shape analysis and modeling, 3D vision and robot perception & grasping, etc. For more details, please refer to my publications.
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Our 《SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote》paper is accepted to TGRS journal.
+- *2026.09*: &nbsp;🎉🎉 Our 《SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote Sensing Small Object Detection》paper is accepted to TGRS journal.
 - *2026.04*: &nbsp;🎉🎉 Our 《BiPart: Bi-level Optimization for Generalizable 3D Part Segmentation Prior Distillation from Pre-trained Vision-Language Mode》paper is accepted to CVM 2026.
 - *2024.06*: &nbsp;🎉🎉 Our 《G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation》paper is accepted to ICCV 2025.
 - *2024.04*: &nbsp;🎉🎉 Our 《Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment》paper is conditionally accepted to SIGGRAPH 2025.
@@ -35,7 +35,7 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/SPEFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote**
+**SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote Sensing Small Object Detection**
 
 Ye Yuan, Shuanglong Li, **Jian Liu**<sup>\*</sup>, Zhaoshuo Diao, Guoyu Tong
 
