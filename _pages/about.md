@@ -32,7 +32,7 @@ Jian is currently jointing the software Lab @ SUT, which conducts research in th
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/Bipart-segmentation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/SPEFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **SPEFormer: A Synergistic Perception-Enhanced Transformer with Density-Guided Dynamic Queries for Remote**
